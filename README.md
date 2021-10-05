@@ -15,8 +15,10 @@ As bibliotecas utilizadas foram:
 - Math
 
 ## Codando
+<div>
 Foi definida uma função de ativação principal que recebe o input de N...
 ![Principal](https://github.com/Raii-Azevedo/D3-Challenge/blob/master/images/main.png)
+</div>
     
 E a função principal denominada "covid", que recebe a função exponencial:
 ![covid](https://github.com/Raii-Azevedo/D3-Challenge/blob/master/images/covid.png)
