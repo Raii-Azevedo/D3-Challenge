@@ -6,7 +6,7 @@ Desafio cálculo do Covid
 - Então, foi realizada uma função exponencial partindo de 0 que aumenta de acordo com os dias determinados de contágio definidos no input de N.
 
 ## O Código
-![D3-Chalenge]()
+[D3-Chalenge](https://github.com/Raii-Azevedo/D3-Challenge/blob/master/d3-challenge.py)
 
 ## O Raciocínio
 As bibliotecas utilizadas foram:
