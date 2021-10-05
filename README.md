@@ -10,6 +10,7 @@ Desafio cálculo do Covid
 
 ## O Raciocínio
 As bibliotecas utilizadas foram:
-- matplotlib.pyplot
-- numpy as np
+- Matplotlib: Para fazer gŕaficos.
+- Numpy: Para manipulação de listas e vetores.
+- Math
 
