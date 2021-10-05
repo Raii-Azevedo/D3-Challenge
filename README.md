@@ -15,13 +15,13 @@ As bibliotecas utilizadas foram:
 - Math
 
 ## Codando
-- Foi definida uma função de ativação principal que recebe o input de N...
+Foi definida uma função de ativação principal que recebe o input de N...
 - [Principal]()
     
-- E a função principal denominada "covid", que recebe a função exponencial:
+E a função principal denominada "covid", que recebe a função exponencial:
 - [covid]()
         
- - E a função de montagem de gráfico:
+E a função de montagem de gráfico:
 - [gráfico]()
     
  - Dessa forma, cada vez que o N (nº de dias é definido, o gráfico com aumento de função é gerado).
