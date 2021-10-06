@@ -32,7 +32,7 @@ E a função de montagem de gráfico:
 
 ![gráfico](https://github.com/Raii-Azevedo/D3-Challenge/blob/master/images/gr%C3%A1fico.png)
     
-Dessa forma, cada vez que o N (nº de dias é definido, o gráfico com aumento de função é gerado).
+Dessa forma, cada vez que o N (nº de dias) é definido, o gráfico com aumento de função é gerado.
  - PS: Quanto maior o número de dias, maior a curva de contágio.
 
 ## Demonstração
